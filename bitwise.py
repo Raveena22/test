@@ -15,7 +15,7 @@ while(i<=4):
 for i in range(4):
     for j in range(4-i):
         print("# ",end="")
-    print()
+    print(j)
 # import numpy as np
 # # for i in range(9):
 # my_array=np.array(int(input(),end=""))
